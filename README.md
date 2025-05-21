@@ -53,6 +53,4 @@ This project leverages cutting-edge multimodal AI techniques to perform **real-t
 
 ---
 
-## 🖥️ Usage
-```bash
-python app.py
+
