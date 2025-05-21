@@ -53,9 +53,5 @@ This project leverages cutting-edge multimodal AI techniques to perform **real-t
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/yourusername/Real-Time-Summarization-AI.git
-cd Real-Time-Summarization-AI
-pip install -r requirements.txt
+## 🖥️ Usage
+python app.py
