@@ -53,4 +53,6 @@ This project leverages cutting-edge multimodal AI techniques to perform **real-t
 
 ---
 
+## ✍️ Author
 
+**Natuva Bhavana:natuvabhavana@gmail.com**  
