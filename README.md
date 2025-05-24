@@ -46,16 +46,14 @@ This project introduces a **Universal Content Summarization System** that utiliz
 
 ### SAMPLE RESULTS OF THIS PROJECT **
 
-![image](https://github.com/user-attachments/assets/1452b8c2-b8cc-4192-bed0-4a503037f025)
+![S1](https://raw.githubusercontent.com/Bhavanaviswanath/Real-Time-Summarization-of-Text-Images-and-Documents-Using-Advanced-Multimodal-AI-Techniques/aa7519ccacf57a78b02b052c812c6c94990b3f62/S1.jpeg)
 
+![S4](https://raw.githubusercontent.com/Bhavanaviswanath/Real-Time-Summarization-of-Text-Images-and-Documents-Using-Advanced-Multimodal-AI-Techniques/aa7519ccacf57a78b02b052c812c6c94990b3f62/S4.jpeg)
 
-![image](https://github.com/user-attachments/assets/3484d4dc-1a61-4451-ad6a-2d6023b0229f)
+![S2](https://raw.githubusercontent.com/Bhavanaviswanath/Real-Time-Summarization-of-Text-Images-and-Documents-Using-Advanced-Multimodal-AI-Techniques/aa7519ccacf57a78b02b052c812c6c94990b3f62/S2.jpeg)
 
+![S3](https://raw.githubusercontent.com/Bhavanaviswanath/Real-Time-Summarization-of-Text-Images-and-Documents-Using-Advanced-Multimodal-AI-Techniques/aa7519ccacf57a78b02b052c812c6c94990b3f62/S3.jpeg)
 
-![image](https://github.com/user-attachments/assets/64880414-0cf4-4190-8708-92928e33ecc6)
-
-
-![image](https://github.com/user-attachments/assets/ef41309b-b788-4a5e-9554-09397bb7bb7d)
 
 
 ### Authors
