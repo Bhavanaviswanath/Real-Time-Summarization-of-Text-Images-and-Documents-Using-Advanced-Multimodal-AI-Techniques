@@ -26,7 +26,8 @@ This project introduces a **Universal Content Summarization System** that utiliz
 | Backend | Python 3.x |
 | Learning Loop | Adaptive feedback-based model updates |
 
-![image](https://github.com/user-attachments/assets/6fa1a4e9-ed0f-443d-8376-823c99e81df8)
+
+![S1](https://raw.githubusercontent.com/Bhavanaviswanath/Real-Time-Summarization-of-Text-Images-and-Documents-Using-Advanced-Multimodal-AI-Techniques/aa7519ccacf57a78b02b052c812c6c94990b3f62/S1.jpeg)
 
 
 ## 🧠 How It Works
@@ -45,8 +46,6 @@ This project introduces a **Universal Content Summarization System** that utiliz
 - NLP to identify and summarize key segments (abstracts, conclusions, insights).
 
 ### SAMPLE RESULTS OF THIS PROJECT **
-
-![S1](https://raw.githubusercontent.com/Bhavanaviswanath/Real-Time-Summarization-of-Text-Images-and-Documents-Using-Advanced-Multimodal-AI-Techniques/aa7519ccacf57a78b02b052c812c6c94990b3f62/S1.jpeg)
 
 ![S4](https://raw.githubusercontent.com/Bhavanaviswanath/Real-Time-Summarization-of-Text-Images-and-Documents-Using-Advanced-Multimodal-AI-Techniques/aa7519ccacf57a78b02b052c812c6c94990b3f62/S4.jpeg)
 
