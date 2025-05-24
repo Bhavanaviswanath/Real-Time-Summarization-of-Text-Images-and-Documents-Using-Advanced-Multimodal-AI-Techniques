@@ -1,58 +1,64 @@
+# PROJECT:  Real-Time-Summarization-of-Text-Images-and-Documents-Using-Advanced-Multimodal-AI-Techniques
 
-# Real-Time Summarization of Text, Images, and Documents Using Advanced Multimodal AI Techniques
 
-## 🧠 Project Overview
+This project introduces a **Universal Content Summarization System** that utilizes **Google Gemini 1.5** and **Large Language Models (LLMs)** to summarize **text, images, and document files** (PDF, DOCX, scanned documents). With cutting-edge **NLP**, **computer vision**, and **multimodal AI techniques**, this system offers real-time, accurate, and context-aware summarizations.
 
-This project leverages cutting-edge multimodal AI techniques to perform **real-time summarization** of various data types, including **raw text**, **images (with embedded text or visual context)**, and **documents (PDFs, scanned docs, etc.)**. The system integrates OCR, NLP, and vision-language models to generate concise summaries that retain the core meaning of the original content—making information consumption faster, easier, and more accessible.
 
----
+## 🔍 Key Features
 
-## 🔍 Features
+- ✏️ **Text Summarization (Extractive & Abstractive)**
+- 🖼️ **Image Summarization (Scene Understanding & Captioning)**
+- 📄 **Document Summarization (OCR + NLP for PDFs & Scanned Docs)**
+- 🧠 **Real-Time AI Adaptation** using user feedback
+- 🌐 **Multi-format Support**: Text, Images, PDF, DOCX
+- 📊 **Interactive GUI** for seamless user experience
+- 📈 **Applications** in education, media, healthcare, legal, and research
 
-- 📄 **Text Summarization**: Uses transformer-based models (e.g., BART, T5, Pegasus) to summarize raw text.
-- 🖼️ **Image Summarization**: Extracts text via OCR and/or uses Vision-Language models (e.g., BLIP, Donut, GIT) for contextual summarization.
-- 📚 **Document Summarization**: Supports PDFs and scanned documents using a pipeline of OCR + NLP summarization.
-- ⚡ **Real-Time Inference**: Built with Flask/FastAPI backend for low-latency API calls.
-- 🌐 **Web Interface**: Interactive frontend built with React.js or Gradio for uploading and viewing summaries.
-- 📥 **Batch Processing Support**: Summarize multiple files at once (text, image, or document).
-- 📊 **Insight Dashboard**: View summary statistics, keyword extraction, and sentiment analysis.
 
----
+## ⚙️ Technologies & Models Used
 
-## 🧰 Tech Stack
+| Module | Tools & Frameworks |
+|--------|--------------------|
+| Text Summarization | Google Gemini 1.5, BERT, TF-IDF, Transformers |
+| Image Summarization | YOLOv8, CLIP, LLaVA |
+| Document Processing | Tesseract OCR, Google Vision API |
+| GUI | Tkinter (Python) |
+| Backend | Python 3.x |
+| Learning Loop | Adaptive feedback-based model updates |
 
-| Component     | Technology                             |
-|---------------|-----------------------------------------|
-| Frontend      | React.js / Gradio / Streamlit           |
-| Backend       | Flask / FastAPI                         |
-| NLP Models    | BART, T5, Pegasus, GPT-3.5 / GPT-4       |
-| Vision Models | BLIP, Donut, GIT, Tesseract OCR         |
-| PDF Parsing   | PyMuPDF, pdfplumber, pdf2image          |
-| Deployment    | Docker, Hugging Face Spaces, Streamlit Cloud |
-| Optional AI   | OpenAI API, Hugging Face Transformers   |
+![image](https://github.com/user-attachments/assets/6fa1a4e9-ed0f-443d-8376-823c99e81df8)
 
----
 
-## 🚀 How It Works
+## 🧠 How It Works
 
-### 1. Text Input
-- User provides raw text input.
-- Text is cleaned, tokenized, and passed to a summarization model.
-- Output is a concise summary (extractive/abstractive).
+### 1. **Text Summarization**
+- **Extractive:** Uses TF-IDF and BERT to extract key sentences.
+- **Abstractive:** Google Gemini rephrases content for natural, concise output.
 
-### 2. Image Input
-- Image is analyzed with:
-  - OCR for text-only images (Tesseract or EasyOCR).
-  - Vision-Language model for contextual image summarization.
-- Extracted content is summarized using NLP techniques.
+### 2. **Image Summarization**
+- Uses YOLOv8 for object detection.
+- CLIP aligns image features with language.
+- LLaVA generates grammatically correct, context-aware captions.
 
-### 3. Document Input
-- PDF or scanned image documents are parsed.
-- OCR is applied on non-text PDFs.
-- Summarization is performed on extracted content.
+### 3. **Document Summarization**
+- OCR with Tesseract/Google Vision to extract text from scanned documents.
+- NLP to identify and summarize key segments (abstracts, conclusions, insights).
 
----
+### SAMPLE RESULTS OF THIS PROJECT **
 
-## ✍️ Author
+![image](https://github.com/user-attachments/assets/1452b8c2-b8cc-4192-bed0-4a503037f025)
 
-**Natuva Bhavana:natuvabhavana@gmail.com**  
+
+![image](https://github.com/user-attachments/assets/3484d4dc-1a61-4451-ad6a-2d6023b0229f)
+
+
+![image](https://github.com/user-attachments/assets/64880414-0cf4-4190-8708-92928e33ecc6)
+
+
+![image](https://github.com/user-attachments/assets/ef41309b-b788-4a5e-9554-09397bb7bb7d)
+
+
+### Authors
+•	Natuva Bhavana
+B.Tech CSE, Alliance University
+•	Email: natuvabhavana@gmail.com
